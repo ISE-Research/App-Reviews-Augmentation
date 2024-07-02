@@ -11,7 +11,7 @@ Access the pre-print from: <a href="https://arxiv.org/abs/2308.14211" target="_b
 @article{abedini2024TOSEM,
   author  = {Yasaman Abedini and Abbas Heydarnoori},
   title   = {Can {GitHub} Issues Help in App Review Classifications?},
-  journal = {Accepted for Publication in ACM Transactions on Software Engineering and Methodology},
+  journal = {To Appear in ACM Transactions on Software Engineering and Methodology},
   year    = {2024},
   month   = {June},
 }
